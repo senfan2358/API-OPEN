@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+senfanapi:
+  clent:
+    access-key: senfan
+    secret-key: senfan
